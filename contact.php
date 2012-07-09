@@ -52,9 +52,9 @@ $(function() {
        <h2><strong>Call (Turkey) : 0090 542 206 9810</strong></h2></td>
     <td width="51%" align="left" valign="top"><table border="0" cellspacing="2" cellpadding="2">
       <tr>
-        <td><img src="old/oz.png" width="150" height="98"></td>
+        <td><img src="img/oz.png" width="150" height="98"></td>
         <td><img src="old/table2.png" width="150" height="98"></td>
-        <td><img src="old/karen.png" width="150" height="98"></td>
+        <td><img src="img/karen.png" width="150" height="98"></td>
       </tr>
       <tr>
         <td><img src="old/mainsale.png" width="150" height="98"></td>

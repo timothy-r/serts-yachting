@@ -66,9 +66,9 @@ $(function() {
       <td colspan="6">  <h1>Photo Gallery</h1></td>
       </tr>
     <tr>
-      <td><img src="old/oz.png" width="150" height="98"></td>
+      <td><img src="img/oz.png" width="150" height="98"></td>
       <td><img src="old/table2.png" width="150" height="98"></td>
-      <td><img src="old/karen.png" width="150" height="98"></td>
+      <td><img src="img/karen.png" width="150" height="98"></td>
       <td><img src="old/mainsale.png" width="150" height="98"></td>
       <td><img src="old/burn-karen.png" width="150" height="98"></td>
       <td><img src="old/table.png" width="150" height="98"></td>
