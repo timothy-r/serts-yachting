@@ -74,7 +74,7 @@ $(function() {
       	</td>
       <td>
       	<a target="_blank"  href="https://www.facebook.com/media/set/?set=a.166410883445640.44196.158652700888125&type=3">
-      	<img src="old/table2.png" width="150" height="98" border="0">
+      	<img src="img/table2.png" width="150" height="98" border="0">
       	</a>
       
       <td>
@@ -94,7 +94,7 @@ $(function() {
 
       <td>
       	<a  target="_blank" href="https://www.facebook.com/media/set/?set=a.166410883445640.44196.158652700888125&type=3">
-      	<img src="old/table.png" width="150" height="98" border="0">
+      	<img src="img/table.png" width="150" height="98" border="0">
       	</a>
     
     </tr>
