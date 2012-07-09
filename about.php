@@ -103,7 +103,7 @@ $(function() {
 <p><br>
       </p>
     </div></td>
-    <td align="left" valign="top"><img src="old/burn-karen.png" width="150" height="98"><br>
+    <td align="left" valign="top"><img src="img/burn-karen.png" width="150" height="98"><br>
       <br></td>
     <td align="center" valign="top"><img src="img/oz.png" width="150" height="98"><br>
       <br>      <a href="http://www.facebook.com/pages/Serts-Yachting/158652700888125" target="_blank"><img src="grx/facebook.jpg" width="133" height="40" border="0"></a></td>

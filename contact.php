@@ -58,7 +58,7 @@ $(function() {
       </tr>
       <tr>
         <td><img src="old/mainsale.png" width="150" height="98"></td>
-        <td><img src="old/burn-karen.png" width="150" height="98"></td>
+        <td><img src="img/burn-karen.png" width="150" height="98"></td>
         <td><img src="img/table.png" width="150" height="98"></td>
         </tr>
     </table>      <p><a href="http://www.facebook.com/pages/Serts-Yachting/158652700888125" target="_blank"><img src="grx/facebook.jpg" width="133" height="40" border="0"></a></p></td>
