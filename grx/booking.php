@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Sailing Holiday Availability | Serts YachtingS</title>
+<title>Sailing Holiday Availability | Serts Yachting</title>
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.js"></script>
 <script type="text/javascript">
