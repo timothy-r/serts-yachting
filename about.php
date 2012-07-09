@@ -51,7 +51,7 @@ $(function() {
       <p><span> There is a large decking area perfect for soaking up the Mediterranean sun and a  spacious shaded seating area in which to enjoy cocktails, nibbles and that all important afternoon siesta.</span></p>
     </div></td>
     <td width="16%"><img src="img/karen.png" width="150" height="98"></td>
-    <td width="16%"><img src="old/mainsale.png" width="150" height="98"></td>
+    <td width="16%"><img src="img/mainsale.png" width="150" height="98"></td>
   </tr>
   <tr>
     <td align="left" valign="top"><h2>&nbsp;</h2></td>

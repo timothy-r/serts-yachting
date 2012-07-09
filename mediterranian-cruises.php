@@ -69,7 +69,7 @@ $(function() {
       <td><img src="img/oz.png" width="150" height="98"></td>
       <td><img src="img/table2.png" width="150" height="98"></td>
       <td><img src="img/karen.png" width="150" height="98"></td>
-      <td><img src="old/mainsale.png" width="150" height="98"></td>
+      <td><img src="img/mainsale.png" width="150" height="98"></td>
       <td><img src="img/burn-karen.png" width="150" height="98"></td>
       <td><img src="img/table.png" width="150" height="98"></td>
     </tr>
