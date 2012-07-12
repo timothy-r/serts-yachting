@@ -61,7 +61,7 @@ $(function() {
         <td><img src="content/img/burn-karen.png" width="150" height="98"></td>
         <td><img src="content/img/table.png" width="150" height="98"></td>
         </tr>
-    </table>      <p><a href="http://www.facebook.com/pages/Serts-Yachting/158652700888125" target="_blank"><img src="grx/facebook.jpg" width="133" height="40" border="0"></a></p></td>
+    </table>      <p><a href="http://www.facebook.com/pages/Serts-Yachting/158652700888125" target="_blank"><img src="img/facebook.jpg" width="133" height="40" border="0"></a></p></td>
     </tr>
 </table>
 <div style="clear:both;"></div>
@@ -76,7 +76,7 @@ $(function() {
 
 
 <div style="clear:both;"></div>
-<div id="info" style="background-image:url(grx/top-bkg.jpg); background-repeat:no-repeat;">
+<div id="info" style="background-image:url(img/top-bkg.jpg); background-repeat:no-repeat;">
   <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>

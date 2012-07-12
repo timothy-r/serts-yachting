@@ -11,7 +11,7 @@
   })();
 
 </script>
-<div id="header"><img src="grx/logo2.jpg" width="360" height="64" style="margin-top:30px; float:left;">
+<div id="header"><img src="img/logo2.jpg" width="360" height="64" style="margin-top:30px; float:left;">
   <div id="navigation"><ul>
 <li><a href="contact.php">contact</a></li>
 <li><a href="about.php">about us</a></li>

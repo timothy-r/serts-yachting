@@ -47,7 +47,7 @@ $(function() {
 <table width="100%" border="0" cellspacing="2" cellpadding="2">
   <tr>
     <td>
-      <h1><img src="grx/map.jpg" width="549" height="228" alt="Turkish History" style="float:right; margin:5px;">Historical Cruises </h1>
+      <h1><img src="img/map.jpg" width="549" height="228" alt="Turkish History" style="float:right; margin:5px;">Historical Cruises </h1>
       <p>Turkey is a unique country, often referred to as the place where east meets west. Its 3000 year old history spans the ancient Greek, Persian, Roman and Byzantine empires which have all contributed to the uniqueness and beauty of this vast country. </p>
       <p>The beautiful architecture of this country can be seen in its mosques, temples, amphitheatres, and traditional villages. </p>
       <p><br>
@@ -79,7 +79,7 @@ $(function() {
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
-      <td align="right"><a href="http://www.facebook.com/pages/Serts-Yachting/158652700888125" target="_blank"><img src="grx/facebook.jpg" width="133" height="40" border="0"></a></td>
+      <td align="right"><a href="http://www.facebook.com/pages/Serts-Yachting/158652700888125" target="_blank"><img src="img/facebook.jpg" width="133" height="40" border="0"></a></td>
     </tr>
   </table>
 </div>
@@ -93,7 +93,7 @@ $(function() {
 
 
 <div style="clear:both;"></div>
-<div id="info" style="background-image:url(grx/top-bkg.jpg); background-repeat:no-repeat;">
+<div id="info" style="background-image:url(img/top-bkg.jpg); background-repeat:no-repeat;">
   <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>

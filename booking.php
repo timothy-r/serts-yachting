@@ -153,7 +153,7 @@ Daily price £325 (&euro;380)</td>
 
 
 <div style="clear:both;"></div>
-<div id="info" style="background-image:url(grx/top-bkg.jpg); background-repeat:no-repeat;">
+<div id="info" style="background-image:url(img/top-bkg.jpg); background-repeat:no-repeat;">
   <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>

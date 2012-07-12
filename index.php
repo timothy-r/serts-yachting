@@ -39,9 +39,9 @@ $(function() {
 <div id="content">
 <div id="slideshow">
 
-<a href="" onClick="javascript: return false;"><img src="grx/home2.jpg" alt=""border="0" /></a>
-<a href="" onClick="javascript: return false;"><img src="grx/home3.jpg" alt=""border="0" /></a>
-<a href="" onClick="javascript: return false;"><img src="grx/home1.jpg" alt=""border="0" /></a>
+<a href="" onClick="javascript: return false;"><img src="img/home2.jpg" alt=""border="0" /></a>
+<a href="" onClick="javascript: return false;"><img src="img/home3.jpg" alt=""border="0" /></a>
+<a href="" onClick="javascript: return false;"><img src="img/home1.jpg" alt=""border="0" /></a>
 </div>
 <div class="infobox">
 <table width="100%" border="0" cellspacing="2" cellpadding="2">
@@ -104,7 +104,7 @@ $(function() {
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
-      <td align="right"><a href="http://www.facebook.com/pages/Serts-Yachting/158652700888125" target="_blank"><img src="grx/facebook.jpg" width="133" height="40" border="0"></a></td>
+      <td align="right"><a href="http://www.facebook.com/pages/Serts-Yachting/158652700888125" target="_blank"><img src="img/facebook.jpg" width="133" height="40" border="0"></a></td>
     </tr>
   </table>
 </div>
@@ -118,7 +118,7 @@ $(function() {
 
 
 <div style="clear:both;"></div>
-<div id="info" style="background-image:url(grx/top-bkg.jpg); background-repeat:no-repeat;">
+<div id="info" style="background-image:url(img/top-bkg.jpg); background-repeat:no-repeat;">
   <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
