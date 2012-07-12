@@ -66,12 +66,12 @@ $(function() {
       <td colspan="6">  <h1>Photo Gallery</h1></td>
       </tr>
     <tr>
-      <td><img src="img/oz.png" width="150" height="98"></td>
-      <td><img src="img/table2.png" width="150" height="98"></td>
-      <td><img src="img/karen.png" width="150" height="98"></td>
-      <td><img src="img/mainsale.png" width="150" height="98"></td>
-      <td><img src="img/burn-karen.png" width="150" height="98"></td>
-      <td><img src="img/table.png" width="150" height="98"></td>
+      <td><img src="content/img/oz.png" width="150" height="98"></td>
+      <td><img src="content/img/table2.png" width="150" height="98"></td>
+      <td><img src="content/img/karen.png" width="150" height="98"></td>
+      <td><img src="content/img/mainsale.png" width="150" height="98"></td>
+      <td><img src="content/img/burn-karen.png" width="150" height="98"></td>
+      <td><img src="content/img/table.png" width="150" height="98"></td>
     </tr>
     <tr>
       <td>&nbsp;</td>

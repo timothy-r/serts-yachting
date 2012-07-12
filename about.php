@@ -50,8 +50,8 @@ $(function() {
       <p><span id="internal-source-marker_0.6878857291303575">We are an English / Turkish family run business. Our Gulet &lsquo;His&rsquo; (pronounced 'hiss', which in Turkish means good feeling), is a traditional, wooden, two masted sailing yacht. She is 18 metres in length, fully air conditioned with six en-suite double cabins.</span></p>
       <p><span> There is a large decking area perfect for soaking up the Mediterranean sun and a  spacious shaded seating area in which to enjoy cocktails, nibbles and that all important afternoon siesta.</span></p>
     </div></td>
-    <td width="16%"><img src="img/karen.png" width="150" height="98"></td>
-    <td width="16%"><img src="img/mainsale.png" width="150" height="98"></td>
+    <td width="16%"><img src="content/img/karen.png" width="150" height="98"></td>
+    <td width="16%"><img src="content/img/mainsale.png" width="150" height="98"></td>
   </tr>
   <tr>
     <td align="left" valign="top"><h2>&nbsp;</h2></td>
@@ -103,9 +103,9 @@ $(function() {
 <p><br>
       </p>
     </div></td>
-    <td align="left" valign="top"><img src="img/burn-karen.png" width="150" height="98"><br>
+    <td align="left" valign="top"><img src="content/img/burn-karen.png" width="150" height="98"><br>
       <br></td>
-    <td align="center" valign="top"><img src="img/oz.png" width="150" height="98"><br>
+    <td align="center" valign="top"><img src="content/img/oz.png" width="150" height="98"><br>
       <br>      <a href="http://www.facebook.com/pages/Serts-Yachting/158652700888125" target="_blank"><img src="grx/facebook.jpg" width="133" height="40" border="0"></a></td>
   </tr>
 </table>

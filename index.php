@@ -69,32 +69,32 @@ $(function() {
       </tr>
     <tr>
       <td><a target="_blank" href="https://www.facebook.com/media/set/?set=a.166410883445640.44196.158652700888125&type=3">
-      	<img src="img/oz.png" width="150" height="98" border="0">
+      	<img src="content/img/oz.png" width="150" height="98" border="0">
       	</a>
       	</td>
       <td>
       	<a target="_blank"  href="https://www.facebook.com/media/set/?set=a.166410883445640.44196.158652700888125&type=3">
-      	<img src="img/table2.png" width="150" height="98" border="0">
+      	<img src="content/img/table2.png" width="150" height="98" border="0">
       	</a>
       
       <td>
       	<a target="_blank"  href="https://www.facebook.com/media/set/?set=a.166410883445640.44196.158652700888125&type=3">
-      	<img src="img/karen.png" width="150" height="98" border="0">
+      	<img src="content/img/karen.png" width="150" height="98" border="0">
       	</a>
     
       <td>
       	<a  target="_blank" href="https://www.facebook.com/media/set/?set=a.166410883445640.44196.158652700888125&type=3">
-      	<img src="img/mainsale.png" width="150" height="98" border="0">
+      	<img src="content/img/mainsale.png" width="150" height="98" border="0">
       	</a>
 
       <td>
       	<a  target="_blank" href="https://www.facebook.com/media/set/?set=a.166410883445640.44196.158652700888125&type=3">
-      	<img src="img/burn-karen.png" width="150" height="98" border="0">
+      	<img src="content/img/burn-karen.png" width="150" height="98" border="0">
       	</a>
 
       <td>
       	<a  target="_blank" href="https://www.facebook.com/media/set/?set=a.166410883445640.44196.158652700888125&type=3">
-      	<img src="img/table.png" width="150" height="98" border="0">
+      	<img src="content/img/table.png" width="150" height="98" border="0">
       	</a>
     
     </tr>
