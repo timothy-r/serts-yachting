@@ -56,10 +56,10 @@ $(function() {
       <p>Food and Drink are <strong>not</strong> included. Experience has shown us that what works the best for our customers is to choose their own food.</p>
       <p>On your day of arrival our crew will accompany you to the local supermarkets where you can purchase what you would like to eat and drink, we will then arrange to have this delivered to the yacht. We will then prepare and serve your food to your own specifications.</p>
       <h2>can we bring our own alcohol?</h2>
-      <p>Yes please do. Imported alcohol is very expensive in turkey so we suggest you take advantage of duty free allowances.</p>
+      <p>Yes please do. Imported alcohol is very expensive in Turkey so we suggest you take advantage of duty free allowances.</p>
       <h2>Does our charter include insurance?</h2>
-<p>Sorry no, there is no public liability insurance in turkey. You should take private holiday insurance to keep yourself covered!</p>
-      <h2>what currency can we use in turkey?</h2>
+<p>Sorry no, there is no public liability insurance in Turkey. You should take private holiday insurance to keep yourself covered!</p>
+      <h2>what currency can we use in Turkey?</h2>
       <p>Turkish lira is the national currency but most shops and restaurants also accept euros, sterling and dollars.</p>
       <h2>Can we choose our own cruising route?</h2>
 <p>Yes of course. One week includes up to 100 miles of sailing, we can also adapt your route for you if you inform us of your personal interests prior to departure.*</p>
@@ -84,7 +84,7 @@ $(function() {
       <h2>Is smoking permitted on board?</h2>
       <p>yes. But for the safety and comfort of others, we request that you only smoke on the sun deck and seating areas and not in the cabins, using ashtrays and not the surrounding mediterranean. </p>
       <h2>should we tip the crew? </h2>
-      <p>Tipping as appreciation for good service is customary in turkey. But this is entirely at your own discretion. </p>
+      <p>Tipping as appreciation for good service is customary in Turkey. But this is entirely at your own discretion. </p>
       <h2>what if I become unwell?</h2>
       <p>All our crew have basic first aid knowledge, and we have basic first aid equipment on board. If there is an emergency and you need to be treated by a professional we will make sure to get you to land and to a hospital as quickly as we can. </p>
       <h2>what should we bring with us? </h2>
