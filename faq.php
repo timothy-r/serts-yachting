@@ -46,15 +46,15 @@ $(function() {
     </tr>
   <tr>
     <td width="68%" align="left" valign="top"><p>We have included the answers to our most commonly asked questions below in the hope that you will find what you're looking for!</p>
-      <h2>Do your crew and captain speak english?</h2>
-      <p>Yes, your crew and captain are bilingual and speak very good english. </p>
+      <h2>Do your crew and captain speak English?</h2>
+      <p>Yes, the crew and captain are bilingual and speak English very well.</p>
       <h2>how many crew members are there?</h2>
       <p>Two crew members and your captain will be present through the duration of your cruise. They are helpful, experienced and completely respectful of your privacy. Our captain is fully trained and insured with over 25 years of experience so you can be assured that you and your guests are in good hands.</p>
       <h2>Is this holiday suitable for children?</h2>
       <p>Yes, but please be aware that very young children will need constant supervision.</p>
       <h2>Does the cost include meals and drinks?</h2>
-      <p>Food and Drink are <strong>not</strong> included. Experience has shown us that what works the best for our customers is to choose their own food . </p>
-      <p>On your day of arrival our crew will accompany you to the local supermarkets where you can purchase what you would like to eat and drink, we will then arrange to have this delivered to the yacht. We will then prepare and serve your food to your own specifications.      </p>
+      <p>Food and Drink are <strong>not</strong> included. Experience has shown us that what works the best for our customers is to choose their own food.</p>
+      <p>On your day of arrival our crew will accompany you to the local supermarkets where you can purchase what you would like to eat and drink, we will then arrange to have this delivered to the yacht. We will then prepare and serve your food to your own specifications.</p>
       <h2>can we bring our own alcohol?</h2>
       <p>Yes please do. Imported alcohol is very expensive in turkey so we suggest you take advantage of duty free allowances.</p>
       <h2>Does our charter include insurance?</h2>
@@ -62,7 +62,7 @@ $(function() {
       <h2>what currency can we use in turkey?</h2>
       <p>Turkish lira is the national currency but most shops and restaurants also accept euros, sterling and dollars.</p>
       <h2>Can we choose our own cruising route?</h2>
-<p>Yes of course. One week includes up to 100 miles of sailing, we can also adapt your route for you if you inform us of your personal interests prior to departure.* </p>
+<p>Yes of course. One week includes up to 100 miles of sailing, we can also adapt your route for you if you inform us of your personal interests prior to departure.*</p>
 <h2>How do we get from the airport to our gulet?</h2>
 <p>We have a private airport transfer service which is included in your holiday.</p>
       <h2>How many passengers can you accommodate?</h2>
@@ -70,9 +70,9 @@ $(function() {
       <h2>do you have air conditioning?</h2>
       <p>Our gulet is fully air conditioned.</p>
       <h2>Are there life jackets on board?</h2>
-<p>All gulet must pass a strict seaworthiness and safety inspection which includes the provision of lifejackets for guests and crew. </p>
+<p>All gulet must pass a strict seaworthiness and safety inspection which includes the provision of lifejackets for guests and crew.</p>
 <h2>Can we cruise for more or less than 7 days?</h2>
-<p>Of course! we do charters from 1 night upwards! please contact us to discuss your requirements. </p>
+<p>Of course! we do charters from 1 night upwards! please contact us to discuss your requirements.</p>
 <h2>Are there towels/bed linen on board?</h2>
 <p>Yes we supply bed linen, hand and shower towels and soap. You will need to bring your own beach towels!</p>
 <h2>Do you have a cd player on board?</h2>
