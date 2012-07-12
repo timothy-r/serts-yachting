@@ -13,11 +13,11 @@
 </script>
 <div id="header"><img src="img/logo2.jpg" width="360" height="64" style="margin-top:30px; float:left;">
   <div id="navigation"><ul>
-<li><a href="contact.php">contact</a></li>
-<li><a href="about.php">about us</a></li>
+<li><a href="contact.php">Contact</a></li>
+<li><a href="about.php">About Us</a></li>
 <li><a href="faq.php">FAQ</a></li>
-<li><a href="mediterranian-cruises.php">location &amp; history</a></li>
-<li><a href="booking.php">booking &amp; availability</a></li>
+<li><a href="mediterranian-cruises.php">Location &amp; History</a></li>
+<li><a href="booking.php">Booking &amp; Availability</a></li>
 <li><a href="index.php">Home</a></li>
 </ul></div>
 </div>
