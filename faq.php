@@ -58,7 +58,7 @@ $(function() {
       <h2>can we bring our own alcohol?</h2>
       <p>Yes please do. Imported alcohol is very expensive in Turkey so we suggest you take advantage of duty free allowances.</p>
       <h2>Does our charter include insurance?</h2>
-<p>Sorry no, there is no public liability insurance in Turkey. You should take private holiday insurance to keep yourself covered!</p>
+<p>We have liability insurance for each guest of up to 10,000.00 Turkish lira, but you should take private holiday insurance to keep yourself covered!</p>
       <h2>what currency can we use in Turkey?</h2>
       <p>Turkish lira is the national currency but most shops and restaurants also accept euros, sterling and dollars.</p>
       <h2>Can we choose our own cruising route?</h2>
