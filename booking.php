@@ -59,8 +59,8 @@ $(function() {
 	  	<thead>
 			<tr>
 			<td width="40%"><strong>Season</strong></td>
-			<td width="40%"><strong>Weekly</strong></td>
-			<td><strong>Daily</strong></td>
+			<td width="40%"><strong>Per week</strong></td>
+			<td><strong>Per day</strong></td>
 			</tr>
 		</thead>
 		<tr>
