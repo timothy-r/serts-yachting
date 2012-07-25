@@ -10,10 +10,11 @@
 function slideSwitch() {
     var $active = $('#slideshow a.active');
 
-    if ( $active.length == 0 ) $active = $('#slideshow a:last');
+    if ( $active.length == 0 ) {
+		$active = $('#slideshow a:last');
+	}
 
-        var $next =  $active.next().length ? $active.next()
-        : $('#slideshow a:first');
+    var $next =  $active.next().length ? $active.next() : $('#slideshow a:first');
 
     $active.addClass('last-active');
 
