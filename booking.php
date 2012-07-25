@@ -53,7 +53,7 @@ $(function() {
     <td></td>
   </tr>
   <tr>
-    <td colspan="2" align="left" valign="top"><p><strong>Destination Gocek and Fethiye Bay </strong></p>
+    <td colspan="2" align="left" valign="top"><p><strong>Destination Göcek and Fethiye Bay </strong></p>
       <p>To book your cruise holiday you need to provide a deposit of a third of the total value. Please contact us for information on how to pay.</p>
 	  <table width="100%">
 	  	<thead>
