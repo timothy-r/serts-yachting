@@ -53,38 +53,38 @@ $(function() {
     <td></td>
   </tr>
   <tr>
-    <td colspan="2" align="left" valign="top"><p><strong>Destination gocek and fethiye bay </strong></p>
+    <td colspan="2" align="left" valign="top"><p><strong>Destination Gocek and Fethiye Bay </strong></p>
       <p>To book your cruise holiday you need to provide a deposit of a third of the total value. Please contact us for information on how to pay.</p>
-      <table width="100%" border="0" cellspacing="5" cellpadding="5">
-        <tr>
-          <td width="53%"> <p> <strong>Mid season; beginning of may, end of june</strong>
-              <br>
-              £2400 (&euro;2800) per week (deposit £800)<br>
-              daily price £375  (&euro;440)</p></td>
-        </tr>
-      </table>
-      <table width="100%" border="0" cellspacing="5" cellpadding="5">
-        <tr>
-          <td width="53%"><strong>High season; beginning of July- August September 15th </strong><br>
-            weekly price; £2900  (&euro;3380) per week (deposit £950)<br>
-Daily price £450  (&euro;525))</td>
-        </tr>
-      </table>
-      <table width="100%" border="0" cellspacing="5" cellpadding="5">
-        <tr>
-          <td width="53%"><strong>Mid season; September 15th,-October 15th</strong><br>
-            Weekly price; £2400  (&euro;2800) per week (deposit £800)<br>
-            Daily price £375  (&euro;440)</td>
-        </tr>
-      </table>
-      <table width="100%" border="0" cellspacing="5" cellpadding="5">
-        <tr>
-          <td width="53%"><strong>Low season October 15th-November 15th</strong><br>
-Weekly Price £2000  (&euro;2330) per week (deposit £650)<br>
-Daily price £325 (&euro;380)</td>
-        </tr>
-      </table>
-      <p> Other routes such as Marmaris,Bodrum,Kas,Antalya etc.will be priced according to distance.</p></td>
+	  <table width="100%">
+	  	<thead>
+			<tr>
+			<td width="40%"><strong>Season</strong></td>
+			<td width="40%"><strong>Weekly</strong></td>
+			<td><strong>Daily</strong></td>
+			</tr>
+		</thead>
+		<tr>
+			<td>Mid: May 1st - June 30th</td>
+			<td>£2400 (&euro;2800) deposit £800</td>
+			<td>£375 (&euro;440)</td>
+		</tr>
+		<tr>
+			<td>High: July 1st - September 15th</td>
+			<td>£2900 (&euro;3380) deposit £950</td>
+			<td>£450 (&euro;525)</td>
+		</tr>
+		<tr>
+			<td>Mid: September 15th - October 15th</td>
+			<td>£2400 (&euro;2800) deposit £800</td>
+			<td>£375 (&euro;440)</td>
+		</tr>
+		<tr>
+			<td>Low: October 15th - November 15th</td>
+			<td>£2000 (&euro;2330) deposit £650</td>
+			<td>£325 (&euro;380)</td>
+		</tr>
+	  </table>
+      <p>Other routes such as Marmaris, Bodrum, Kas, Antalya etc. are priced according to distance.</p></td>
     <td>  
   </tr>
   </table>
@@ -92,11 +92,6 @@ Daily price £325 (&euro;380)</td>
 </div>
 
 <div style="clear:both;"></div>
-<div id="info" style="background-image:url(img/top-bkg.jpg); background-repeat:no-repeat;">
-  <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-</div>
+<div id="info" style="background-image:url(img/top-bkg.jpg); background-repeat:no-repeat;"></div>
 </body>
 </html>
