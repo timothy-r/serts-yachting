@@ -32,30 +32,6 @@
     </tr>
   </table>
 </div>
-<div class="infobox">
-
-  <table width="100%" border="0" cellspacing="2" cellpadding="2">
-    <tr>
-      <td colspan="6">  <h1>Photo Gallery</h1></td>
-      </tr>
-    <tr>
-      <td><img src="content/img/oz.png" width="150" height="98"></td>
-      <td><img src="content/img/table2.png" width="150" height="98"></td>
-      <td><img src="content/img/karen.png" width="150" height="98"></td>
-      <td><img src="content/img/mainsale.png" width="150" height="98"></td>
-      <td><img src="content/img/burn-karen.png" width="150" height="98"></td>
-      <td><img src="content/img/table.png" width="150" height="98"></td>
-    </tr>
-    <tr>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td align="right"><a href="http://www.facebook.com/pages/Serts-Yachting/158652700888125" target="_blank"><img src="img/facebook.jpg" width="133" height="40" border="0"></a></td>
-    </tr>
-  </table>
-</div>
 </div>
 
 </body>
