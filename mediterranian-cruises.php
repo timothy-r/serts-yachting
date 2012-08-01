@@ -58,7 +58,5 @@
 </div>
 </div>
 
-<div style="clear:both;"></div>
-<div id="info" style="background-image:url(img/top-bkg.jpg); background-repeat:no-repeat;"></div>
 </body>
 </html>
