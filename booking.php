@@ -14,7 +14,7 @@
   <div class="infobox">
   <table width="100%" border="0" cellspacing="2" cellpadding="2">
   <tr>
-    <td width="68%" height="39"><h1>Mediterranian Cruise availability</h1></td>
+    <td width="68%" height="39"><h1>Mediterranean Cruise availability</h1></td>
     <td width="32%">&nbsp;</td>
   </tr>
   <tr>

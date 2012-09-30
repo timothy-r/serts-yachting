@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Serts Yachting, Mediterranian Gulet Sailing Holidays</title>
+<title>Serts Yachting, Mediterranean Gulet Sailing Holidays</title>
 
 <link href="css/style.css" rel="stylesheet" type="text/css">
 </head>

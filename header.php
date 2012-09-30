@@ -16,7 +16,7 @@
 <li><a href="contact.php">Contact</a></li>
 <li><a href="about.php">About Us</a></li>
 <li><a href="faq.php">FAQ</a></li>
-<li><a href="mediterranian-cruises.php">Location &amp; History</a></li>
+<li><a href="mediterranean-cruises.php">Location &amp; History</a></li>
 <li><a href="booking.php">Booking &amp; Availability</a></li>
 <li><a href="index.php">Home</a></li>
 </ul></div>
